@@ -1,3 +1,4 @@
+A simple Python machine learning application for reading images of digits.
 
 ## Requirements
 
